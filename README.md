@@ -1,5 +1,3 @@
-# Bridge Privacy Policy
-
 Privacy Policy for using @Bridge#3274:
 
 Thank you for using Bridge, a Discord Bot designed to send advertisements from one guild to another. This Privacy Policy explains how Bridge collects and uses your personal information, and how we protect your privacy.
@@ -10,9 +8,8 @@ When you use Bridge, we may collect your Discord username and ID, as well as the
 
 Bridge may also collect information about the messages and content that you send through the bot. This information is used solely for the purpose of sending messages and performing other ethical duties.
 
-__Direct Messaging Users__
-
-By using Bridge, you acknowledge that the bot may direct message you at any time if you have used it before. These messages may be related to updates, bug fixes or new features that have been added to the bot. You may opt-out of this in every direct message.
+__Opting Out__
+You can opt-out of your information being collected by not sending messages in a channel Bridge is connected to. Bridge will only save your general user information when you use it.
 
 __Security__
 
